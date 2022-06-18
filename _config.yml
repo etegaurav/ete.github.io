@@ -18,7 +18,7 @@ linkedin_username: "Gaurav Singhdeo"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
 
 rss: rss
 
