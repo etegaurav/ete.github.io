@@ -8,4 +8,5 @@ title: ''
 
 Welcome !!!
 
+
 This website intends to show you how to easily execute the handson exercises for the HAP HANA course.
